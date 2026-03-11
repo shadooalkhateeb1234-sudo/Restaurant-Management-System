@@ -32,22 +32,26 @@ This project focuses on clean design, smooth user experience, and simple data st
 
 ---
 
-## 📸 Screenshots
+## 📁 Screenshot Folder
+
+All project interface images (Login, Sign Up, Menu, Orders, and other UI screens) are stored in the `screenshot` folder.  
+These images are used in the README to showcase the application's design and user interface.
 
 > Upload your images to GitHub → open each image → copy its link → replace `IMAGE_URL_HERE`.
 
 ### 🔐 Login Page  
-![Login](IMAGE_URL_HERE)
+![Login]
 
 ### 📝 Sign Up Page  
-![SignUp](IMAGE_URL_HERE)
+![SignUp])
 
 ### 🍽️ Menu Page  
-![Menu](IMAGE_URL_HERE)
+![Menu]
 
 ### 🛒 Orders Page  
-![Orders](IMAGE_URL_HERE)
+![Orders]
 
+### 📝 Manager Page  
 ---
 
 ## 🗂️ Project Structure
