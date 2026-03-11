@@ -2,7 +2,7 @@
 ### Java Swing Application | Modern UI | Login • Sign Up • Menu • Orders
 
 A fully designed **Java Swing Restaurant Management System** featuring a modern UI, user authentication, menu browsing, and order management.  
-This project focuses on clean design, smooth user experience, and simple data storage using a **TXT file**.
+This project focuses on clean design, smooth user experience, and simple data storage using a **CSV & TXT file**.
 
 ---
 
